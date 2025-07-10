@@ -4,6 +4,8 @@
 
 </div>
 
+<p align="center"># Your Centered Header</p>
+
 This is repo for INDU biocrusts bioinformatic analyses for the following published manuscript. 
 
 ## Manuscript 
