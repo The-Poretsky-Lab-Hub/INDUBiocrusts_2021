@@ -6,7 +6,7 @@ This is the repo for INDU (Indiana Dunes National Park) biocrust bioinformatic a
 
 **TBD**
 
-## Analysis Results and Codes
+## Script Inventory
 1. [DADA2](DADA2/)
 2. [Prelim Data Analysis and Alpha Diversity](Prelim%20Data%20Analysis%20and%20Alpha%20Diversity/)
 3. [Principal Component Analysis and Hypothesis-testing Statistics](Principal%20Component%20Analysis%20and%20Hypothesis-testing%20Statistics/)
