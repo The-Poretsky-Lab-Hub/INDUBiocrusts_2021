@@ -1,16 +1,6 @@
-<div style="text-align: center;">
-  
-  # The Microbal Ecology of Biocrusts within the Indiana Dunes National Park (INDU)
+# The Microbal Ecology of INDU Biocrusts
 
-</div>
-
-<p align="center">
-  
-  # Your Centered Header
-  
-</p>
-
-This is repo for INDU biocrusts bioinformatic analyses for the following published manuscript. 
+This is the repo for INDU (Indiana Dunes National Park) biocrust bioinformatic analyses for the following published manuscript. 
 
 ## Manuscript 
 
