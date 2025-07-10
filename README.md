@@ -8,10 +8,10 @@ This is the repo for INDU (Indiana Dunes National Park) biocrust bioinformatic a
 
 ## Analysis Results and Codes
 1. [DADA2](DADA2/)
-2. [Prelim Data Analysis and Alpha Diversity](Prelim Data Analysis and Alpha Diversity/)
-3. [Principal Component Analysis and Hypothesis-testing Statistics](Principal Component Analysis and Hypothesis-testing Statistics/)
-4. [Redundancy Analysis](Redundancy Analysis/)
+2. [Prelim Data Analysis and Alpha Diversity](Prelim%20Data%20Analysis%20and%20Alpha%20Diversity/)
+3. [Principal Component Analysis and Hypothesis-testing Statistics](Principal%20Component%20Analysis%20and%20Hypothesis-testing%20Statistics/)
+4. [Redundancy Analysis](Redundancy%20Analysis/)
 5. [Linear Discrepancy Analysis](Linear%20Discrepancy%20Analysis/)
-6. [Random Forest Model](Random Forest Model/)
+6. [Random Forest Model](Random%20Forest%20Model/)
    
 -Jamal- updated on 10 July 2025
